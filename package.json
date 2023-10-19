@@ -1,0 +1,20 @@
+{
+  "name": "ketonftstaking",
+  "version": "1.0.0",
+  "description": "NFT Staking",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venusgalstar/KetoNftStaking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venusgalstar/KetoNftStaking/issues"
+  },
+  "homepage": "https://github.com/venusgalstar/KetoNftStaking#readme"
+}
